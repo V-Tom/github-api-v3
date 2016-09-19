@@ -40,15 +40,14 @@
 
 - `src` 源目录
 - `src/{章节目录}`
-- `src/{章节目录}/{小节目录}`
+- `src/{章节目录}/翻译文件名.md`
 
 例如：
 
 ```
 └── src
     └── activity
-        └── events
-            └── translate.md
+            └── activity.md
 ```
 
 
