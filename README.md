@@ -22,7 +22,7 @@
 
 ### 领取翻译
 
-在[issus](https://github.com/CloudCrystal/github-api-v3/issues/1)下留言领取任务，留言内容如下
+在[issus](https://github.com/CloudCrystal/github-api-v3/issues/1)下留言领取任务，留言内容如：
 
 > 我要认领翻译 「活动 ->订阅（Activity -> Feed）」
 
@@ -35,3 +35,23 @@
 - **必须** 严格遵循 Markdown 语法；
 - 原文中的双引号（" "）请代换成中文的引号（「」符号怎么打出来见 [这里](http://zhihu.com/question/19755746/answer/27233392)）；
 - 「`加亮`」和「**加粗**」和「[链接]()」都需要在左右保持一个空格。
+
+### 文件结构
+
+- `src` 源目录
+- `src/{章节目录}`
+- `src/{章节目录}/{小节目录}`
+
+例如：
+
+```
+└── src
+    └── activity
+        └── events
+            ├── readme.md
+            └── translate.md
+```
+
+
+
+> Fork 项目至你的仓库，根据认领的章节或小节建立文件夹、新建文件、添加翻译。
