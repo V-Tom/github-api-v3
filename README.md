@@ -4,7 +4,7 @@
 
 ## 一.翻译说明
 
-[Github API V3](https://developer.github.com/v3/) 提供非常多的功能，文档翻译也是熟悉这些API的过程，希望可以帮助更多人的发挥创意制作有趣的产品。
+[Github API V3](https://developer.github.com/v3/) 提供非常多的功能，文档翻译也是熟悉这些API的过程，希望可以帮助更多人发挥创意制作有趣的产品。
 
 
 
