@@ -14,7 +14,7 @@
 
 
 
-## 二.开始翻译
+## 二. 开始翻译
 
 ### 加入翻译
 
@@ -55,3 +55,27 @@
 
 
 > Fork 项目至你的仓库，根据认领的章节或小节建立文件夹、新建文件、添加翻译。
+
+
+
+## 三. 翻译署名
+
+翻译参与者对译文能行使署名权，就如画家在作品上签名。
+
+例如，以下 Markdown 代码会在文档最底部出现：
+
+```
+## 译者署名
+| 用户名 | 贡献 | 签名 |
+| --- | --- | --- | --- |
+| [@starriv](https://github.com/starriv) |  翻译 [Gists](https://developer.github.com/v3/gists/)  | Web Developer |
+| [@Tom](https://github.com/V-Tom) |  翻译 [Activity](https://developer.github.com/v3/activity/)  | Node && FE Developer |
+```
+
+
+解析后为：
+
+| 用户名                                    | 贡献                                       | 签名                   |
+| -------------------------------------- | ---------------------------------------- | -------------------- |
+| [@starriv](https://github.com/starriv) | 翻译 [Gists](https://developer.github.com/v3/gists/) | Web Developer        |
+| [@Tom](https://github.com/V-Tom)       | 翻译 [Activity](https://developer.github.com/v3/activity/) | Node && FE Developer |
